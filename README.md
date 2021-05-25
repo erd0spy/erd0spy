@@ -9,15 +9,16 @@
 
 ### Connect with me:
 [<img align="left" alt="fikretgaripay | protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
-
-[protonmail]: mailto:fikretgaripay@protonmail.com
+[<img align="left" alt="fikretgaripay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br>
 <br>
-
 
 <div align="center">
   <a href="https://tryhackme.com/p/erdos" target="_blank">
     <img src="https://user-images.githubusercontent.com/58850695/119458080-089f9000-bd45-11eb-9681-1e383fc262a4.png" align="center">
   </a>
 </div>
+
+[protonmail]: mailto:fikretgaripay@protonmail.com
+[twitter]: https://twitter.com/dos63326064
