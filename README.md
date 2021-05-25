@@ -14,8 +14,6 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="DesKel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DesKel | protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
 
-[twitter]: https://twitter.com/dos63326064
 [protonmail]: mailto:fikretgaripay@protonmail.com
