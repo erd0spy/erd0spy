@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **reverse engineering.**
 
-- 📫 How to reach me **fikretgaripay@protonmail.com**
 
 <br>
 
