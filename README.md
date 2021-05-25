@@ -13,6 +13,6 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="DesKel | protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
+[<img align="left" alt="fikretgaripay | protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
 
 [protonmail]: mailto:fikretgaripay@protonmail.com
