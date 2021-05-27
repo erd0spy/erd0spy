@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Fikret Garipay</h1>
 
-- I’m currently working as **security researcher.**
+- I’m currently working as **security researcher at CyberPath.**
 
 - I’m currently learning **reverse engineering.**
 
