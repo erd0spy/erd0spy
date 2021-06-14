@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/erdos" target="_blank">
-    <img src="https://user-images.githubusercontent.com/58850695/119458080-089f9000-bd45-11eb-9681-1e383fc262a4.png" align="center">
+    <img src="https://user-images.githubusercontent.com/58850695/121874066-b0d6c200-cd0f-11eb-9eca-2ff6127fa07a.png" align="center">
   </a>
 </div>
 
