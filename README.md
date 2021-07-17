@@ -19,4 +19,4 @@
 </div>
 
 [protonmail]: mailto:fikretgaripay@protonmail.com
-[twitter]: https://twitter.com/dos63326064
+[twitter]: https://twitter.com/erdospy
