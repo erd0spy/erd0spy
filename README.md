@@ -2,7 +2,7 @@
 
 <br>
 
-- I’m currently working as **Security Researcher at CyberPath.**
+- I’m currently working as **Software Engineer at CyberPath.**
 
 
 <h3 align="left">Languages and Tools:</h3>
